@@ -14,27 +14,9 @@ Under andra veckan fortsätter vi bygga projekten. Fokus är små steg, tydliga 
 
 ---
 
-## Måndag: Feedback, testning och review
+## Måndag: Avstämning och eget arbete
 
-Vi återbesöker hur man arbetar kontrollerat med AI-agenten, testning och kodgranskning.
-
-### Förmiddag: gemensam genomgång
-
-- Feedback till AI-agenten
-- Diagnos före större omskrivningar
-- Testning av viktiga användarbeteenden
-- Review (granskning) av diff (ändringarna i koden) mot ticket (liten uppgift) och PRD (kort produktplan)
-
-### Kontrollsteg vid AI-assisterade ändringar
-
-- Läs diffen
-- Förklara förändringen med egna ord
-- Kontrollera att ändringen matchar aktuell ticket och PRD
-- Kör TypeScript
-- Kör lint eller formatter
-- Testa acceptanskriteriet manuellt
-- Lägg till automatiserat test när det ger tydligt värde
-- Gör en liten och begriplig commit (sparad ändring i Git)
+### Förmiddag: Avstämning inför veckan
 
 ### Eftermiddag: fortsatt arbete
 
