@@ -1,44 +1,40 @@
-# Schema Vecka 18: Individuellt Projekt - Implementation och scope kontroll
+# 📅 Schema Vecka 18: Individuellt Projekt - Implementation och scope kontroll
 
 Under andra veckan fortsätter vi bygga projekten. Fokus är små steg, tydliga commits och att hålla projektet lagom stort.
 
 ---
 
-## Veckomål
+## 🎯 Mål för veckan
 
-- Bygga vidare på projektets viktigaste flöden
-- Jobba i små tickets
-- Kontrollera AI-genererad kod
-- Justera scope (omfattning) vid behov
-- Ha något demonstrerbart inför vecka 3
+* Bygga vidare på projektets viktigaste flöden
+* Jobba i små tickets
+* Kontrollera AI-genererad kod
+* Justera scope (omfattning) vid behov
+* Ha något demonstrerbart inför vecka 3
 
----
+## 📅 Måndag: Avstämning och eget arbete
 
-## Måndag: Avstämning och eget arbete
-
-### Förmiddag: Avstämning inför veckan
-
-### Eftermiddag: fortsatt arbete
-
-- Fortsätt implementationen
-- Ta upp blockerande problem i stödgruppen
-- Justera backlog (lista med kommande uppgifter) vid behov
+Förmiddag: Avstämning inför veckan
+Eftermiddag: fortsatt arbete
+Fortsätt implementationen
+Ta upp blockerande problem i stödgruppen
+Justera backlog (lista med kommande uppgifter) vid behov
 
 ---
 
-## Tisdag: Fortsatt implementation
+## 📅 Tisdag: Fortsatt implementation
 
 Fortsätt arbeta med nästa viktiga ticket. Håll ändringarna små och testa ofta.
 
 ---
 
-## Onsdag: Fortsatt implementation
+## 📅 Onsdag: Fortsatt implementation
 
 Fortsätt bygga på kärnflödet. Om projektet växer för mycket: välj bort något.
 
 ---
 
-## Torsdag: Fortsatt implementation
+## 📅 Torsdag: Fortsatt implementation
 
 Fortsätt arbetet och kontrollera att projektet fortfarande är rimligt att hinna klart.
 
@@ -50,7 +46,7 @@ Fortsätt arbetet och kontrollera att projektet fortfarande är rimligt att hinn
 
 ---
 
-## Fredag: Stabilisering inför vecka 3
+## 📅 Fredag: Stabilisering inför vecka 3
 
 Sikta på att ha en demonstrerbar kärna inför sista veckan. Stäm av med gruppen och hjälps åt att avgränsa och polera.
 
@@ -59,3 +55,5 @@ Sikta på att ha en demonstrerbar kärna inför sista veckan. Stäm av med grupp
 - Huvudflödet fungerar eller är nära att fungera
 - Backlog är uppdaterad
 - Scope är rimligt inför vecka 3
+
+---
