@@ -14,8 +14,9 @@ Under andra veckan fortsätter vi bygga projekten. Fokus är små steg, tydliga 
 
 ## 📅 Måndag: Avstämning och eget arbete
 
-Förmiddag: Avstämning inför veckan
-Eftermiddag: fortsatt arbete
+### Förmiddag: Gemensamt - Avstämning inför veckan
+
+### Eftermiddag: Eget arbete
 Fortsätt implementationen
 Ta upp blockerande problem i stödgruppen
 Justera backlog (lista med kommande uppgifter) vid behov
